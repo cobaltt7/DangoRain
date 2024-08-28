@@ -35,6 +35,6 @@
 
 	document.querySelector("body").append(dangoContainer);
 	if (!localStorage.getItem("scratchAddonsAprilFoolsModal2021")) {
-		document.querySelector("#content").append(noticeText);
+		document.querySelector("body").append(noticeText);
 	}
 })();

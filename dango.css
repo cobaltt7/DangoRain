@@ -24,7 +24,7 @@
 	height: 50px;
 	width: 50px;
 	/* Twemoji by Twitter Inc, licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/ */
-	background: url("//cdn.jsdelivr.net/gh/ScratchAddons/ScratchAddons/addons/dango-rain/dango.svg");
+	background: url("https://cdn.jsdelivr.net/gh/ScratchAddons/ScratchAddons/addons/dango-rain/dango.svg");
 	pointer-events: none;
 	position: absolute;
 	top: -10%;
